@@ -18,10 +18,14 @@ This project uses a Convolutional Neural Network (CNN) model along with MediaPip
    cd ASL_detection
 
 # Requirements
-  numpy==1.26.4
+  numpy==1.26.4 
+  
   opencv-python==4.11.0.86
+  
   matplotlib==3.9.2
+  
   mediapipe==0.10.21
+  
   tensorflow==2.19.0
 
 # Supported Signs
