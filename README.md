@@ -18,10 +18,9 @@ This project uses a Convolutional Neural Network (CNN) model along with MediaPip
    cd ASL_detection
 
 2. Install Required Packages
-   Make sure you have Python 3.7+ installed, then run:
    ```bash
   pip install -r requirements.txt
-
+  
 3. Run the Webcam Application
    To start real-time sign language detection using OpenCV:
    ```bash
