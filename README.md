@@ -1,8 +1,8 @@
-# 🧠 Sign Language Detection using CNN & MediaPipe
+#  Sign Language Detection using CNN & MediaPipe
 
 This project uses a Convolutional Neural Network (CNN) model along with MediaPipe hand tracking to detect and classify American Sign Language (ASL) hand gestures in real-time through a webcam.
 
-## 🚀 Features
+##  Features
 
 - Real-time hand gesture detection
 - Pre-trained CNN model for ASL alphabets A–Y (excluding J and Z)
@@ -10,7 +10,7 @@ This project uses a Convolutional Neural Network (CNN) model along with MediaPip
 - Smooth predictions with frame averaging
 - Built using TensorFlow, OpenCV, and MediaPipe
 
-## 🛠️ Installation
+## 🛠 Installation
 
 1. Clone the repository
    ```bash
@@ -44,7 +44,6 @@ This project supports static ASL letters A-Z
 
 # Proposed Solution
 The proposed system aims to bridge the communication gap between hearing-impaired individuals and others by recognizing hand signs using computer vision and deep learning. The solution      includes the following components:
-
      1. Data Collection:
          Use a labeled dataset of hand sign images.
          Include variations in hand gestures, lighting, and background to improve model          
