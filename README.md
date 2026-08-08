@@ -98,7 +98,7 @@ Model Performance on ASL Detection:
 - Sentence-Level Detection: Extend the model to detect sequences of gestures and convert them into meaningful sentences.
 - Speech Output Integration: Add real-time text-to-speech functionality to vocalize detected signs.
 - Multilingual Sign Support: Expand the system to include regional or international sign languages (e.g., ISL, BSL).
-- 3D Avatar Integration: Use 3D animated avatars to visually translate spoken/written language into sign language.
+
 
 
 
